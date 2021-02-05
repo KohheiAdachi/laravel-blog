@@ -22,7 +22,7 @@ jobs:
       DB_PORT: 3306
       DB_DATABASE: blog_example
       DB_USERNAME: root
-      DB_PASSWORD: 
+      DB_PASSWORD: pass
 
     steps:
     - uses: shivammathur/setup-php@b7d1d9c9a92d8d8463ce36d7f60da34d461724f8
